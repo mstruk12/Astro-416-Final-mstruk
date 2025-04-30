@@ -15,6 +15,8 @@ This project uses unsupervised machine learning to identify open star clusters i
 
 `field_reduced.csv` is the chosen field read into the notebook, queried with ADQL and saved
 
+`Final_Project_Report-Struk.pdf` is the PDF file of the written report for the project
+
 ### Methods
 
 We explore the results of using two feature matrices:
